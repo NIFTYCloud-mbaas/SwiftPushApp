@@ -119,7 +119,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0720;
-				ORGANIZATIONNAME = "NIFTY Corporation";
+				ORGANIZATIONNAME = "FUJITSU CLOUD TECHNOLOGIES LIMITED";
 				TargetAttributes = {
 					BD8673441D0988A7000806AD = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -329,7 +329,7 @@
 				INFOPLIST_FILE = SwiftPushApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.mobilebackend.niftycloud.SwiftPushApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mobilebackend.nifcloud.SwiftPushApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -343,7 +343,7 @@
 				INFOPLIST_FILE = SwiftPushApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.mobilebackend.niftycloud.SwiftPushApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mobilebackend.nifcloud.SwiftPushApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
